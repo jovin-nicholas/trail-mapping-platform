@@ -6,8 +6,6 @@ A fullstack geospatial platform built with Ruby on Rails, React, MapboxGL, and P
 
 Designed to solve real problems for outdoor explorers by visualizing and managing geospatial data at scale.
 
-Mirrors AllTrails core stack and product direction: interactive maps, reliable trail data, scalable APIs, and delightful UI.
-
 ## Key Features
 
 Mapbox-powered interactive mapping: View “places” on fully interactive maps (pan, zoom, popups).
